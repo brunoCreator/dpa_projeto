@@ -10,6 +10,9 @@
                     <a class="nav-link" aria-current="page" href="../home/">Home</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="../Clientes/">Clientes</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="../Categorias/">Categorias</a>
                 </li>
                 <li class="nav-item">
